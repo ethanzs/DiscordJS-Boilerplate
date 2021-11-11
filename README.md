@@ -7,7 +7,7 @@ npm run start
 
 ## Configuration
 
-In the ` config.json ` file, you can set your bot token and desired prefix.
+In the ` config.json ` file, you can set your bot token and desired prefix (eventually to be replaced with .env file!)
 
 ```JSON
 {
